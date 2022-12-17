@@ -16,7 +16,7 @@ Repositório com as respostas do PROCESSO SELETIVO DE DESENVOLVEDOR(A) QA PLOOME
 
 ### 🚀 Começando
 
-Para executar: inserir código na questão correspondente do hakerrank e submeta o codigo :)
+Para executar: inserir o conteúdo de cada arquivo .js na questão correspondente do hakerrank e submeta o codigo :)
 
 
 <br>
